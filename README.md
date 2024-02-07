@@ -1,5 +1,5 @@
 # SkyGuardian Project README
-![SkyGuardian Logo](https://www.dropbox.com/scl/fi/hrfswzcejqnap49b5bjvy/SKYGUARDIAN.jpg?rlkey=r9zfol7a6wlv2vfs986w2gfp3&dl=0)
+[SkyGuardian Logo](https://www.dropbox.com/scl/fi/hrfswzcejqnap49b5bjvy/SKYGUARDIAN.jpg?rlkey=r9zfol7a6wlv2vfs986w2gfp3&dl=0)
 
 ## Overview
 
