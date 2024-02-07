@@ -1,5 +1,5 @@
 # SkyGuardian Project README
-![SkyGuardian Logo](https://www.dropbox.com/scl/fi/w1x0yiv07q68dmm6gfsgm/SKYGUARDIAN.webp?rlkey=t4c7rathu9pmezq77r6w7s21x&dl=0)
+![SkyGuardian Logo](https://www.dropbox.com/scl/fi/hrfswzcejqnap49b5bjvy/SKYGUARDIAN.jpg?rlkey=r9zfol7a6wlv2vfs986w2gfp3&dl=0)
 
 ## Overview
 
@@ -41,8 +41,9 @@ SkyGuardian is currently in the Pre-Alpha stage, focusing on core development, s
 ## Citations
 
 This project was inspired by and utilized information from various sources,GitHub for code snippets and structural ideas,Bootswatch for custom Bootstrap themes, and last but not least the in person lectures for MIST 353 and the accessibility that they were uploaded on ecampus the next day to rewatch the material.
-[https://www.dropbox.com/scl/fi/syvre31b8kb0lyokgf2r1/Screenshot-2024-02-06-at-23.23.19.png?rlkey=fy01t04j30buhhlkoa0hvqko2&dl=0](url)
-[https://www.dropbox.com/scl/fi/3iyru79q1bu7w1xb3p2x4/Screenshot-2024-02-06-at-23.23.09.png?rlkey=4p90xy6xaqpg613017bbsulc7&dl=0](url)
+
+ChatGPT Prompts:https://www.dropbox.com/scl/fi/3iyru79q1bu7w1xb3p2x4/Screenshot-2024-02-06-at-23.23.09.png?rlkey=4p90xy6xaqpg613017bbsulc7&dl=0
+https://www.dropbox.com/scl/fi/syvre31b8kb0lyokgf2r1/Screenshot-2024-02-06-at-23.23.19.png?rlkey=fy01t04j30buhhlkoa0hvqko2&dl=0
 - GitHub: [https://github.com/](https://github.com/)
 - Bootswatch: [https://bootswatch.com/](https://bootswatch.com/)
 
