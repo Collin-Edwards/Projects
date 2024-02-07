@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkyGuardian - Weather Briefings</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="htmlpage.html">SkyGuardian</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="htmlpage.html">Home</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Weather Briefings <span class="sr-only">(current)</span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container mt-4">
+        <h1>Weather Briefings for Airborne Operations</h1>
+        <p>Get the latest updates on weather conditions affecting airborne operations.</p>
+
+        <!-- Weather Briefings Table -->
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Time</th>
+                    <th scope="col">Location</th>
+                    <th scope="col">Weather Condition</th>
+                    <th scope="col">Visibility</th>
+                    <th scope="col">Wind</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>0600H</td>
+                    <td>Drop Zone A</td>
+                    <td>Clear</td>
+                    <td>10 km</td>
+                    <td>N 5 mph</td>
+                </tr>
+                <tr>
+                    <td>1200H</td>
+                    <td>Drop Zone B</td>
+                    <td>Partly Cloudy</td>
+                    <td>12 km</td>
+                    <td>NE 10 mph</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.7/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
